@@ -1,0 +1,59 @@
+.div2 {
+    border: 30px;
+    border-radius: 1px 1px 5px ; 
+    padding: 10px;
+    text-align:auto
+  }
+  
+  .divprinci {
+  
+    padding: 10px;
+    border-radius: 5px; 
+    background-image: linear-gradient(to right, red, whitesmoke);
+  }
+  
+  
+  .formulario {
+    width: 300px;
+    height: 250px;
+    margin: auto;
+    position: absolute; 
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+  }
+  
+  .div3 {
+    text-align: center;
+    padding: 10px;
+    text-align: auto;
+    
+  }
+  
+  .div4 {
+    padding: 10px;
+    text-align: auto; 
+    border-radius: 1px 1px 5px ; 
+  }
+  
+  input {
+    position: relative;
+  }
+  
+  body{
+    background-image: url(imagens/fundologin.png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    font: white;
+    text-align: center;
+  }   
+  
+  .imglogin {
+    width: 100px;
+  height: 100px;
+  }
+  
+  .div7 {
+    padding: 10px;
+  }
